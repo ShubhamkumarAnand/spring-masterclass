@@ -1,2 +1,4 @@
-package imskanand.spring.masterclass.customer;public class CustomerRepository {
+package imskanand.spring.masterclass.customer;
+
+public class CustomerRepository {
 }

@@ -1,2 +1,4 @@
-package imskanand.spring.masterclass.customer;public class CustomerService {
+package imskanand.spring.masterclass.customer;
+
+public class CustomerService {
 }
